@@ -52,6 +52,7 @@
   <ItemGroup>
     <Compile Include="PassByValueOrReferenceTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ArrayReferenceTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MethodsAndEncapsulation\MethodsAndEncapsulation.csproj">
